@@ -6,3 +6,10 @@ You are a data analyst working for a sports analytics company. Your task is to c
 
 ### Dataset
 [most_runs_average_strikerate.csv](https://github.com/user-attachments/files/18180313/most_runs_average_strikerate.csv)
+
+### Excel Cheat sheet with dashboard
+
+[Sports Datsets.xlsx](https://github.com/user-attachments/files/18183208/Sports.Datsets.xlsx)
+
+
+![Screenshot 2024-12-18 185737](https://github.com/user-attachments/assets/8a42e8e1-6348-4b98-91ae-442ab656f7dc)
